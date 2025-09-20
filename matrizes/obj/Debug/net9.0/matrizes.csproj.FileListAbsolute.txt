@@ -26,3 +26,4 @@ F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\matrizes\obj\D
 F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\matrizes\obj\Debug\net9.0\matrizes.pdb
 F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\matrizes\obj\Debug\net9.0\matrizes.genruntimeconfig.cache
 F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\matrizes\obj\Debug\net9.0\ref\matrizes.dll
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\matrizes\obj\Debug\net9.0\matrizes.sourcelink.json
