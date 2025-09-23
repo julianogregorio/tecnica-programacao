@@ -3,7 +3,7 @@ using Biblioteca;
 
 class ExerciseNine
 {
-    static void getReverse(int[] meuArray)
+    static void getReverse(char[] meuArray)
     {
         Console.WriteLine("\nVetor invertido:");
         for (int i = meuArray.Length - 1; i >= 0; i--)
@@ -19,9 +19,9 @@ class ExerciseNine
         Console.Write("Entre com o tamanho do vetor: ");
         n = int.Parse(Console.ReadLine());
 
-        int[] meuArray = new int[n];
-        BibliotecaVetor.gerarVetor(meuArray);
-        BibliotecaVetor.mostrarVetor(meuArray);
+        char[] meuArray = new char[n];
+        BibliotecaVetor.gerarVetorCaracteres(meuArray);
+        BibliotecaVetor.mostrarVetorCaracteres(meuArray);
 
         getReverse(meuArray);
     }
