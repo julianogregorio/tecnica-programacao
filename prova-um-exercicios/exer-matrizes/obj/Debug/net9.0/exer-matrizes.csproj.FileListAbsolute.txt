@@ -1,0 +1,15 @@
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-matrizes\obj\Debug\net9.0\exer-matrizes.GeneratedMSBuildEditorConfig.editorconfig
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-matrizes\obj\Debug\net9.0\exer-matrizes.AssemblyInfoInputs.cache
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-matrizes\obj\Debug\net9.0\exer-matrizes.AssemblyInfo.cs
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-matrizes\obj\Debug\net9.0\exer-matrizes.csproj.CoreCompileInputs.cache
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-matrizes\obj\Debug\net9.0\exer-matrizes.sourcelink.json
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-matrizes\bin\Debug\net9.0\exer-matrizes.exe
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-matrizes\bin\Debug\net9.0\exer-matrizes.deps.json
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-matrizes\bin\Debug\net9.0\exer-matrizes.runtimeconfig.json
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-matrizes\bin\Debug\net9.0\exer-matrizes.dll
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-matrizes\bin\Debug\net9.0\exer-matrizes.pdb
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-matrizes\obj\Debug\net9.0\exer-matrizes.dll
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-matrizes\obj\Debug\net9.0\refint\exer-matrizes.dll
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-matrizes\obj\Debug\net9.0\exer-matrizes.pdb
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-matrizes\obj\Debug\net9.0\exer-matrizes.genruntimeconfig.cache
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-matrizes\obj\Debug\net9.0\ref\exer-matrizes.dll
