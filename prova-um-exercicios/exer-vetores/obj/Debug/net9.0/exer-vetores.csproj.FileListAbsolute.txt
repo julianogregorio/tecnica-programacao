@@ -1,0 +1,15 @@
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-vetores\bin\Debug\net9.0\exer-vetores.exe
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-vetores\bin\Debug\net9.0\exer-vetores.deps.json
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-vetores\bin\Debug\net9.0\exer-vetores.runtimeconfig.json
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-vetores\bin\Debug\net9.0\exer-vetores.dll
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-vetores\bin\Debug\net9.0\exer-vetores.pdb
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-vetores\obj\Debug\net9.0\exer-vetores.GeneratedMSBuildEditorConfig.editorconfig
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-vetores\obj\Debug\net9.0\exer-vetores.AssemblyInfoInputs.cache
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-vetores\obj\Debug\net9.0\exer-vetores.AssemblyInfo.cs
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-vetores\obj\Debug\net9.0\exer-vetores.csproj.CoreCompileInputs.cache
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-vetores\obj\Debug\net9.0\exer-vetores.sourcelink.json
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-vetores\obj\Debug\net9.0\exer-vetores.dll
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-vetores\obj\Debug\net9.0\refint\exer-vetores.dll
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-vetores\obj\Debug\net9.0\exer-vetores.pdb
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-vetores\obj\Debug\net9.0\exer-vetores.genruntimeconfig.cache
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\prova-um-exercicios\exer-vetores\obj\Debug\net9.0\ref\exer-vetores.dll
