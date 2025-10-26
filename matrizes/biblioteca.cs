@@ -39,7 +39,6 @@ namespace minhaBiblioteca
 
             Console.WriteLine("****Matriz****");
 
-            Console.WriteLine("Entre com os dados da matriz: ");
             for (int i = 0; i < linhas; i++)
             {
                 for (int j = 0; j < cols; j++)
