@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroBandas", "CadastroBandas\CadastroBandas.csproj", "{DD5A9A23-54B9-2301-B4F6-1836F18904F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD5A9A23-54B9-2301-B4F6-1836F18904F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD5A9A23-54B9-2301-B4F6-1836F18904F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD5A9A23-54B9-2301-B4F6-1836F18904F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD5A9A23-54B9-2301-B4F6-1836F18904F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {575ADCA0-0B5D-4F44-BB32-5CF57AC6E5A0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroBandas\obj\Debug\net9.0\CadastroBandas.GeneratedMSBuildEditorConfig.editorconfig
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroBandas\obj\Debug\net9.0\CadastroBandas.AssemblyInfoInputs.cache
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroBandas\obj\Debug\net9.0\CadastroBandas.AssemblyInfo.cs
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroBandas\obj\Debug\net9.0\CadastroBandas.csproj.CoreCompileInputs.cache
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroBandas\obj\Debug\net9.0\CadastroBandas.sourcelink.json
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroBandas\bin\Debug\net9.0\CadastroBandas.exe
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroBandas\bin\Debug\net9.0\CadastroBandas.deps.json
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroBandas\bin\Debug\net9.0\CadastroBandas.runtimeconfig.json
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroBandas\bin\Debug\net9.0\CadastroBandas.dll
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroBandas\bin\Debug\net9.0\CadastroBandas.pdb
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroBandas\obj\Debug\net9.0\CadastroBandas.dll
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroBandas\obj\Debug\net9.0\refint\CadastroBandas.dll
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroBandas\obj\Debug\net9.0\CadastroBandas.pdb
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroBandas\obj\Debug\net9.0\CadastroBandas.genruntimeconfig.cache
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroBandas\obj\Debug\net9.0\ref\CadastroBandas.dll

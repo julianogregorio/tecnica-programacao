@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("matrizes")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CadastroBandas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e8748209e24d98c09e4d9b7f5f0f43f2f44dc95")]
-[assembly: System.Reflection.AssemblyProductAttribute("matrizes")]
-[assembly: System.Reflection.AssemblyTitleAttribute("matrizes")]
+[assembly: System.Reflection.AssemblyProductAttribute("CadastroBandas")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CadastroBandas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
