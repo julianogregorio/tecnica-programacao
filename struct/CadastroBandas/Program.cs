@@ -17,23 +17,92 @@ namespace CadastroBandas
 			novaBanda.integrantes = int.Parse(Console.ReadLine());
 			Console.Write("Ranking: ");
 			novaBanda.ranking = int.Parse(Console.ReadLine());
-			
 			listaBandas.Add(novaBanda);
+			Console.WriteLine("------------");
 			
 		}
-		
-		static void mostrarBandas (List<Banda> listaBandas)
+
+		static void mostrarBandas(List<Banda> listaBandas)
 		{
-			
-			int posicao = 1; 
-			
-			foreach(Banda b in listaBandas)
+
+			int posicao = 1;
+
+			foreach (Banda b in listaBandas)
 			{
-				Console.WriteLine($"***Bandas {posicao}****");
+				Console.WriteLine($"***Banda {posicao}****");
 				Console.WriteLine($"{b.nome} - {b.genero} - {b.integrantes} - {b.ranking}");
 				posicao++;
 			}
 		}
+		
+		static bool buscarBandas (List<Banda> listaBandas, string nomeBusca)
+		{
+			
+			foreach (Banda b in listaBandas)
+			{
+				if (b.nome.ToUpper().Contains(nomeBusca.ToUpper())) 
+				{
+					Console.WriteLine("===Dados da banda===");
+					Console.WriteLine($"Nome da banda: {b.nome}");
+					Console.WriteLine($"Genero: {b.genero}");
+					Console.WriteLine($"Número de integrantes: {b.integrantes}");
+					Console.WriteLine($"Ranking: {b.ranking}");
+					return true;
+                }
+			}
+			return false;
+        }
+		static int buscarIndiceBandas(List<Banda> listaBandas, string nomeBusca)
+		{
+
+			for (int i = 0; i < listaBandas.Count; i++)
+			{
+				if (listaBandas[i].nome.ToUpper().Equals(nomeBusca.ToUpper()))
+				{
+
+					return i;
+				}
+			}
+			return -1;
+		}
+
+		static bool atualizarBanda(List<Banda> listaBandas, string nomeBanda)
+		{
+			int i = buscarIndiceBandas(listaBandas, nomeBanda);
+			if (i == -1)
+
+				return false;
+			Console.WriteLine("===Dados da banda===");
+			Console.WriteLine($"{listaBandas[i].nome} - {listaBandas[i].genero} - {listaBandas[i].integrantes} - {listaBandas[i].ranking}");
+			Console.WriteLine("Novos dados");
+			Console.Write("Nome: ");
+			listaBandas[i].nome = Console.ReadLine();
+			Console.Write("Genero: ");
+			listaBandas[i].genero = Console.ReadLine();
+			Console.Write("Integrantes: ");
+			listaBandas[i].integrantes = int.Parse(Console.ReadLine());
+			Console.Write("Ranking: ");
+			listaBandas[i].ranking = int.Parse(Console.ReadLine());
+
+			return true;
+
+		}
+		
+		static bool removerBanda(List<Banda> listaBandas, string nomeBanda)
+        {
+			int i = buscarIndiceBandas(listaBandas, nomeBanda);
+			if (i == -1)
+
+				return false;
+			Console.Write($"Tem certeza que deseja excluir {nomeBanda} [1 - Sim | 2 - Não]");
+			int resposta = int.Parse(Console.ReadLine());
+			if (resposta == 1)
+				listaBandas.RemoveAt(i);
+			Console.Write("Banda removida com sucesso!");
+			
+			return true;
+			
+        }
 		
 		
 		static int menu()
@@ -43,6 +112,9 @@ namespace CadastroBandas
 			Console.WriteLine("\n=== Sistema de Cadastro de Bandas ===");
 			Console.WriteLine("1 - Adicionar Bandas");
 			Console.WriteLine("2 - Mostrar Bandas");
+			Console.WriteLine("3 - Buscar Bandas");
+			Console.WriteLine("4 - Atualizar Banda");
+			Console.WriteLine("5 - Remover Banda");
 			Console.WriteLine("0 - Sair do Sistema");
 			Console.Write("Digite sua escolha: ");
 			opcao = int.Parse(Console.ReadLine());
@@ -106,6 +178,30 @@ namespace CadastroBandas
 					
 					case 2: 
 					mostrarBandas(listaBandas);
+					break;
+
+					case 3:
+						Console.WriteLine("Nome da banda: ");
+						string nomeBanda = Console.ReadLine();
+						bool encontrado = buscarBandas(listaBandas, nomeBanda);
+						if (!encontrado)
+							Console.WriteLine("Banda não encontrada :(");
+						break;
+					
+					case 4:
+						Console.WriteLine("Nome da banda para atualizar dados: ");
+						nomeBanda = Console.ReadLine();
+						encontrado = atualizarBanda(listaBandas, nomeBanda);
+						if (!encontrado)
+							Console.WriteLine("Banda não encontrada :(");
+						break;
+					
+					case 5:
+						Console.WriteLine("Nome da banda para remover dados: ");
+						nomeBanda = Console.ReadLine();
+						encontrado = removerBanda(listaBandas, nomeBanda);
+						if (!encontrado)
+							Console.WriteLine("Banda não encontrada :(");
 					break;
 
 					case 0:
