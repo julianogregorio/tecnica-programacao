@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Laboratório\\Downloads\\juliano\\projectsGitHub\\tecnica-programacao\\struct\\CadastroEletro\\CadastroEletro.csproj": {}
+    "F:\\arquivos_juliano\\documentos\\projectsGitHub\\tecnica-programacao\\struct\\CadastroEletro\\CadastroEletro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Laboratório\\Downloads\\juliano\\projectsGitHub\\tecnica-programacao\\struct\\CadastroEletro\\CadastroEletro.csproj": {
+    "F:\\arquivos_juliano\\documentos\\projectsGitHub\\tecnica-programacao\\struct\\CadastroEletro\\CadastroEletro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Laboratório\\Downloads\\juliano\\projectsGitHub\\tecnica-programacao\\struct\\CadastroEletro\\CadastroEletro.csproj",
+        "projectUniqueName": "F:\\arquivos_juliano\\documentos\\projectsGitHub\\tecnica-programacao\\struct\\CadastroEletro\\CadastroEletro.csproj",
         "projectName": "CadastroEletro",
-        "projectPath": "C:\\Users\\Laboratório\\Downloads\\juliano\\projectsGitHub\\tecnica-programacao\\struct\\CadastroEletro\\CadastroEletro.csproj",
-        "packagesPath": "C:\\Users\\Laboratório\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Laboratório\\Downloads\\juliano\\projectsGitHub\\tecnica-programacao\\struct\\CadastroEletro\\obj\\",
+        "projectPath": "F:\\arquivos_juliano\\documentos\\projectsGitHub\\tecnica-programacao\\struct\\CadastroEletro\\CadastroEletro.csproj",
+        "packagesPath": "C:\\Users\\Gregório\\.nuget\\packages\\",
+        "outputPath": "F:\\arquivos_juliano\\documentos\\projectsGitHub\\tecnica-programacao\\struct\\CadastroEletro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Laboratório\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Gregório\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
