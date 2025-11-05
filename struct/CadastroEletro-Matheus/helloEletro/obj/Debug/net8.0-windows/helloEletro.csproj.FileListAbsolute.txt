@@ -1,0 +1,17 @@
+C:\Users\09677811673\projects\tecnica-programacao\struct\CadastroEletro-Matheus\helloEletro\bin\Debug\net8.0-windows\helloEletro.exe
+C:\Users\09677811673\projects\tecnica-programacao\struct\CadastroEletro-Matheus\helloEletro\bin\Debug\net8.0-windows\helloEletro.deps.json
+C:\Users\09677811673\projects\tecnica-programacao\struct\CadastroEletro-Matheus\helloEletro\bin\Debug\net8.0-windows\helloEletro.runtimeconfig.json
+C:\Users\09677811673\projects\tecnica-programacao\struct\CadastroEletro-Matheus\helloEletro\bin\Debug\net8.0-windows\helloEletro.dll
+C:\Users\09677811673\projects\tecnica-programacao\struct\CadastroEletro-Matheus\helloEletro\bin\Debug\net8.0-windows\helloEletro.pdb
+C:\Users\09677811673\projects\tecnica-programacao\struct\CadastroEletro-Matheus\helloEletro\obj\Debug\net8.0-windows\helloEletro.Form1.resources
+C:\Users\09677811673\projects\tecnica-programacao\struct\CadastroEletro-Matheus\helloEletro\obj\Debug\net8.0-windows\helloEletro.csproj.GenerateResource.cache
+C:\Users\09677811673\projects\tecnica-programacao\struct\CadastroEletro-Matheus\helloEletro\obj\Debug\net8.0-windows\helloEletro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09677811673\projects\tecnica-programacao\struct\CadastroEletro-Matheus\helloEletro\obj\Debug\net8.0-windows\helloEletro.AssemblyInfoInputs.cache
+C:\Users\09677811673\projects\tecnica-programacao\struct\CadastroEletro-Matheus\helloEletro\obj\Debug\net8.0-windows\helloEletro.AssemblyInfo.cs
+C:\Users\09677811673\projects\tecnica-programacao\struct\CadastroEletro-Matheus\helloEletro\obj\Debug\net8.0-windows\helloEletro.csproj.CoreCompileInputs.cache
+C:\Users\09677811673\projects\tecnica-programacao\struct\CadastroEletro-Matheus\helloEletro\obj\Debug\net8.0-windows\helloEletro.sourcelink.json
+C:\Users\09677811673\projects\tecnica-programacao\struct\CadastroEletro-Matheus\helloEletro\obj\Debug\net8.0-windows\helloEletro.dll
+C:\Users\09677811673\projects\tecnica-programacao\struct\CadastroEletro-Matheus\helloEletro\obj\Debug\net8.0-windows\refint\helloEletro.dll
+C:\Users\09677811673\projects\tecnica-programacao\struct\CadastroEletro-Matheus\helloEletro\obj\Debug\net8.0-windows\helloEletro.pdb
+C:\Users\09677811673\projects\tecnica-programacao\struct\CadastroEletro-Matheus\helloEletro\obj\Debug\net8.0-windows\helloEletro.genruntimeconfig.cache
+C:\Users\09677811673\projects\tecnica-programacao\struct\CadastroEletro-Matheus\helloEletro\obj\Debug\net8.0-windows\ref\helloEletro.dll

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\09677811673\\projects\\tecnica-programacao\\struct\\CadastroEletro-Matheus\\helloEletro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2E9063-18E7-47F4-AB62-6988E8E31F26}|helloEletro.csproj|c:\\users\\09677811673\\projects\\tecnica-programacao\\struct\\cadastroeletro-matheus\\helloeletro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2E9063-18E7-47F4-AB62-6988E8E31F26}|helloEletro.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2E9063-18E7-47F4-AB62-6988E8E31F26}|helloEletro.csproj|c:\\users\\09677811673\\projects\\tecnica-programacao\\struct\\cadastroeletro-matheus\\helloeletro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B2E9063-18E7-47F4-AB62-6988E8E31F26}|helloEletro.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\09677811673\\projects\\tecnica-programacao\\struct\\CadastroEletro-Matheus\\helloEletro\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\09677811673\\projects\\tecnica-programacao\\struct\\CadastroEletro-Matheus\\helloEletro\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:40:58.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\09677811673\\projects\\tecnica-programacao\\struct\\CadastroEletro-Matheus\\helloEletro\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\09677811673\\projects\\tecnica-programacao\\struct\\CadastroEletro-Matheus\\helloEletro\\Form1.cs [Projeto]*",
+              "RelativeToolTip": "Form1.cs [Projeto]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:38:30.402Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
