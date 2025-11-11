@@ -1,0 +1,15 @@
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroViagens\obj\Debug\net9.0\CadastroViagens.GeneratedMSBuildEditorConfig.editorconfig
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroViagens\obj\Debug\net9.0\CadastroViagens.AssemblyInfoInputs.cache
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroViagens\obj\Debug\net9.0\CadastroViagens.AssemblyInfo.cs
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroViagens\obj\Debug\net9.0\CadastroViagens.csproj.CoreCompileInputs.cache
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroViagens\obj\Debug\net9.0\CadastroViagens.sourcelink.json
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroViagens\bin\Debug\net9.0\CadastroViagens.exe
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroViagens\bin\Debug\net9.0\CadastroViagens.deps.json
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroViagens\bin\Debug\net9.0\CadastroViagens.runtimeconfig.json
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroViagens\bin\Debug\net9.0\CadastroViagens.dll
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroViagens\bin\Debug\net9.0\CadastroViagens.pdb
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroViagens\obj\Debug\net9.0\CadastroViagens.dll
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroViagens\obj\Debug\net9.0\refint\CadastroViagens.dll
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroViagens\obj\Debug\net9.0\CadastroViagens.pdb
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroViagens\obj\Debug\net9.0\CadastroViagens.genruntimeconfig.cache
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\struct\CadastroViagens\obj\Debug\net9.0\ref\CadastroViagens.dll
