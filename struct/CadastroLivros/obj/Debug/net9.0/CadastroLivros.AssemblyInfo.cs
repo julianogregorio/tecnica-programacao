@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CadastroBandas")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CadastroLivros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59bddc15af1ceaa7ae1d5e1f103aafb486e11c21")]
-[assembly: System.Reflection.AssemblyProductAttribute("CadastroBandas")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CadastroBandas")]
+[assembly: System.Reflection.AssemblyProductAttribute("CadastroLivros")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CadastroLivros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

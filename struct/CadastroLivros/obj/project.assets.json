@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\arquivos_juliano\\documentos\\projectsGitHub\\tecnica-programacao\\struct\\CadastroBandas\\CadastroBandas.csproj",
-      "projectName": "CadastroBandas",
-      "projectPath": "F:\\arquivos_juliano\\documentos\\projectsGitHub\\tecnica-programacao\\struct\\CadastroBandas\\CadastroBandas.csproj",
+      "projectUniqueName": "F:\\arquivos_juliano\\documentos\\projectsGitHub\\tecnica-programacao\\struct\\CadastroLivros\\CadastroLivros.csproj",
+      "projectName": "CadastroLivros",
+      "projectPath": "F:\\arquivos_juliano\\documentos\\projectsGitHub\\tecnica-programacao\\struct\\CadastroLivros\\CadastroLivros.csproj",
       "packagesPath": "C:\\Users\\Gregório\\.nuget\\packages\\",
-      "outputPath": "F:\\arquivos_juliano\\documentos\\projectsGitHub\\tecnica-programacao\\struct\\CadastroBandas\\obj\\",
+      "outputPath": "F:\\arquivos_juliano\\documentos\\projectsGitHub\\tecnica-programacao\\struct\\CadastroLivros\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gregório\\AppData\\Roaming\\NuGet\\NuGet.Config"
