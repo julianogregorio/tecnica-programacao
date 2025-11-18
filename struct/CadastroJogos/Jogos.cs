@@ -2,7 +2,7 @@ namespace CadastroJogos
 
 {
     class Emprestimo {
-        public string data;
+        public DateTime data;
         public string nomePessoa;
         public char emprestado; 
     }
