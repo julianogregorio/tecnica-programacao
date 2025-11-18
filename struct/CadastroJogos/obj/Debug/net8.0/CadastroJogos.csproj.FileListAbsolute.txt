@@ -1,0 +1,15 @@
+C:\Users\Professores\Downloads\JULIANO\projects\tecnica-programacao\struct\CadastroJogos\obj\Debug\net8.0\CadastroJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professores\Downloads\JULIANO\projects\tecnica-programacao\struct\CadastroJogos\obj\Debug\net8.0\CadastroJogos.AssemblyInfoInputs.cache
+C:\Users\Professores\Downloads\JULIANO\projects\tecnica-programacao\struct\CadastroJogos\obj\Debug\net8.0\CadastroJogos.AssemblyInfo.cs
+C:\Users\Professores\Downloads\JULIANO\projects\tecnica-programacao\struct\CadastroJogos\obj\Debug\net8.0\CadastroJogos.csproj.CoreCompileInputs.cache
+C:\Users\Professores\Downloads\JULIANO\projects\tecnica-programacao\struct\CadastroJogos\obj\Debug\net8.0\CadastroJogos.sourcelink.json
+C:\Users\Professores\Downloads\JULIANO\projects\tecnica-programacao\struct\CadastroJogos\bin\Debug\net8.0\CadastroJogos.exe
+C:\Users\Professores\Downloads\JULIANO\projects\tecnica-programacao\struct\CadastroJogos\bin\Debug\net8.0\CadastroJogos.deps.json
+C:\Users\Professores\Downloads\JULIANO\projects\tecnica-programacao\struct\CadastroJogos\bin\Debug\net8.0\CadastroJogos.runtimeconfig.json
+C:\Users\Professores\Downloads\JULIANO\projects\tecnica-programacao\struct\CadastroJogos\bin\Debug\net8.0\CadastroJogos.dll
+C:\Users\Professores\Downloads\JULIANO\projects\tecnica-programacao\struct\CadastroJogos\bin\Debug\net8.0\CadastroJogos.pdb
+C:\Users\Professores\Downloads\JULIANO\projects\tecnica-programacao\struct\CadastroJogos\obj\Debug\net8.0\CadastroJogos.dll
+C:\Users\Professores\Downloads\JULIANO\projects\tecnica-programacao\struct\CadastroJogos\obj\Debug\net8.0\refint\CadastroJogos.dll
+C:\Users\Professores\Downloads\JULIANO\projects\tecnica-programacao\struct\CadastroJogos\obj\Debug\net8.0\CadastroJogos.pdb
+C:\Users\Professores\Downloads\JULIANO\projects\tecnica-programacao\struct\CadastroJogos\obj\Debug\net8.0\CadastroJogos.genruntimeconfig.cache
+C:\Users\Professores\Downloads\JULIANO\projects\tecnica-programacao\struct\CadastroJogos\obj\Debug\net8.0\ref\CadastroJogos.dll
