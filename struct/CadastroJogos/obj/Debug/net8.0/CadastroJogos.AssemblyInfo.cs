@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CadastroJogos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fc77c25f76c0f5a712e98ba2493209ac7c13629")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+881644b5050e3fbc346669318676e1a5efb00198")]
 [assembly: System.Reflection.AssemblyProductAttribute("CadastroJogos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CadastroJogos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

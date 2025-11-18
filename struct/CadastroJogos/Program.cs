@@ -38,11 +38,93 @@ namespace CadastroJogos
                 novoJogo.emprestimo.data = Console.ReadLine();
             }
 
-            // CORRIGIDO:
+            
             listaJogos.Add(novoJogo);
 
             Console.WriteLine("\nJogo cadastrado com sucesso!");
             Console.WriteLine("--------------------------");
+        }
+
+        static void buscarTituloConsole(List<Jogos> listaJogos)
+        {
+            
+            bool encontrado = false;
+
+            Console.WriteLine("\n--------------------------");
+            
+            Console.WriteLine("Digite o título ou console que você desja buscar: ");
+
+            string busca = Console.ReadLine();
+
+
+            
+
+
+            foreach (Jogos j in listaJogos)
+            {
+                
+                if(j.titulo == busca || j.console == busca)
+                {
+                    Console.WriteLine($"\n** Jogo **");
+                    Console.WriteLine($"Título: {j.titulo}");
+                    Console.WriteLine($"Console: {j.console}");
+                    Console.WriteLine($"Ano: {j.ano}");
+                    Console.WriteLine($"Ranking: {j.ranking}");
+                
+                    if(j.emprestimo.emprestado == 'S' || j.emprestimo.emprestado == 's')
+                    {
+                        Console.WriteLine("Jogo emprestado!");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Jogo disponível!");
+                    }
+                
+                    Console.WriteLine("--------------------------");
+
+                    encontrado = true;        
+
+                }
+                
+                
+
+            }
+
+            if (!encontrado)
+            {
+                Console.WriteLine("Jogo não encontrado");
+                Console.WriteLine("--------------------------");
+            }
+
+        }
+        static void exibirJogos(List<Jogos> listaJogos)
+        {
+            int posicao = 1;
+            Console.WriteLine("\n--------------------------");
+            Console.WriteLine("--- Jogos Cadastrados ---");
+
+            foreach (Jogos j in listaJogos)
+            {
+                Console.WriteLine($"\n** Jogo {posicao}: **");
+                Console.WriteLine($"Título: {j.titulo}");
+                Console.WriteLine($"Console: {j.console}");
+                Console.WriteLine($"Ano: {j.ano}");
+                Console.WriteLine($"Ranking: {j.ranking}");
+                
+                if(j.emprestimo.emprestado == 'S' || j.emprestimo.emprestado == 's')
+                {
+                    Console.WriteLine("Jogo emprestado!");
+                }
+                else
+                {
+                    Console.WriteLine("Jogo disponível!");
+                }
+                
+                posicao++;
+                Console.WriteLine("--------------------------");
+
+            }
+
         }
        
        /*
@@ -129,8 +211,8 @@ namespace CadastroJogos
 
             Console.WriteLine("\n--- Menu de opções ---");
             Console.WriteLine("1 - Cadastrar jogos");
-            Console.WriteLine("2 - Procurar livro por nome");
-            Console.WriteLine("3 - Exibir todos os livros cadastrados");
+            Console.WriteLine("2 - Procurar titulo ou  por console");
+            Console.WriteLine("3 - Exibir todos os jogos cadastrados");
             Console.WriteLine("4 - Procurar livros por ano");
             Console.WriteLine("0 - Sair do sistema");
 
@@ -159,15 +241,15 @@ namespace CadastroJogos
                         addJogos(listaJogos);
                         break;
 
-                    /*
-                    case 2:
-                        buscarTitulo(listaLivros);
+                    
+                   case 2:
+                        buscarTituloConsole(listaJogos);
                         break;
-
+            
                     case 3:
-                        exibirLivros(listaLivros);
+                        exibirJogos(listaJogos);
                         break;
-
+                    /*    
                     case 4:
                         buscarAno(listaLivros);
                         break;
