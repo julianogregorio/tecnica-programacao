@@ -1,0 +1,15 @@
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-final\CadastroLivros\bin\Debug\net9.0\CadastroLivros.exe
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-final\CadastroLivros\bin\Debug\net9.0\CadastroLivros.deps.json
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-final\CadastroLivros\bin\Debug\net9.0\CadastroLivros.runtimeconfig.json
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-final\CadastroLivros\bin\Debug\net9.0\CadastroLivros.dll
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-final\CadastroLivros\bin\Debug\net9.0\CadastroLivros.pdb
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-final\CadastroLivros\obj\Debug\net9.0\CadastroLivros.GeneratedMSBuildEditorConfig.editorconfig
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-final\CadastroLivros\obj\Debug\net9.0\CadastroLivros.AssemblyInfoInputs.cache
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-final\CadastroLivros\obj\Debug\net9.0\CadastroLivros.AssemblyInfo.cs
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-final\CadastroLivros\obj\Debug\net9.0\CadastroLivros.csproj.CoreCompileInputs.cache
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-final\CadastroLivros\obj\Debug\net9.0\CadastroLivros.sourcelink.json
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-final\CadastroLivros\obj\Debug\net9.0\CadastroLivros.dll
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-final\CadastroLivros\obj\Debug\net9.0\refint\CadastroLivros.dll
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-final\CadastroLivros\obj\Debug\net9.0\CadastroLivros.pdb
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-final\CadastroLivros\obj\Debug\net9.0\CadastroLivros.genruntimeconfig.cache
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-final\CadastroLivros\obj\Debug\net9.0\ref\CadastroLivros.dll
