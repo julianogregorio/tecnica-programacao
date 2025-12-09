@@ -1,0 +1,15 @@
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-grafos\MatrizGrafoAdjacenciaAtividade\bin\Debug\net9.0\MatrizGrafo.exe
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-grafos\MatrizGrafoAdjacenciaAtividade\bin\Debug\net9.0\MatrizGrafo.deps.json
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-grafos\MatrizGrafoAdjacenciaAtividade\bin\Debug\net9.0\MatrizGrafo.runtimeconfig.json
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-grafos\MatrizGrafoAdjacenciaAtividade\bin\Debug\net9.0\MatrizGrafo.dll
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-grafos\MatrizGrafoAdjacenciaAtividade\bin\Debug\net9.0\MatrizGrafo.pdb
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-grafos\MatrizGrafoAdjacenciaAtividade\obj\Debug\net9.0\MatrizGrafo.GeneratedMSBuildEditorConfig.editorconfig
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-grafos\MatrizGrafoAdjacenciaAtividade\obj\Debug\net9.0\MatrizGrafo.AssemblyInfoInputs.cache
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-grafos\MatrizGrafoAdjacenciaAtividade\obj\Debug\net9.0\MatrizGrafo.AssemblyInfo.cs
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-grafos\MatrizGrafoAdjacenciaAtividade\obj\Debug\net9.0\MatrizGrafo.csproj.CoreCompileInputs.cache
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-grafos\MatrizGrafoAdjacenciaAtividade\obj\Debug\net9.0\MatrizGrafo.sourcelink.json
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-grafos\MatrizGrafoAdjacenciaAtividade\obj\Debug\net9.0\MatrizGrafo.dll
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-grafos\MatrizGrafoAdjacenciaAtividade\obj\Debug\net9.0\refint\MatrizGrafo.dll
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-grafos\MatrizGrafoAdjacenciaAtividade\obj\Debug\net9.0\MatrizGrafo.pdb
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-grafos\MatrizGrafoAdjacenciaAtividade\obj\Debug\net9.0\MatrizGrafo.genruntimeconfig.cache
+F:\arquivos_juliano\documentos\projectsGitHub\tecnica-programacao\projeto-grafos\MatrizGrafoAdjacenciaAtividade\obj\Debug\net9.0\ref\MatrizGrafo.dll
